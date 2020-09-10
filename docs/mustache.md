@@ -9,3 +9,7 @@ Borrowed earlier (1550s) as *mostacchi*, from the Italian word or its Spanish de
 # http://www.etymon.cn/origins/
 
 1580s, from French moustache (15c.), from Italian mostaccio, from  Medieval Greek moustakion, diminutive of Doric mystax (genitive  mystakos) "upper lip, mustache," related to mastax "jaws, mouth,"  literally "that with which one chews," from PIE root *mendh- "to chew"  (see mandible).Borrowed earlier (1550s) as mostacchi, from the Italian  word or its Spanish derivative mostacho. The plural form of this,  mustachios, lingers in English. Slang shortening stache attested from  1985. Dutch slang has a useful noun, de befborstel, to refer to the  mustache specifically as a tool for stimulating the clitoris; probably  from beffen "to stimulate the clitoris with the tongue."
+
+
+
+# Dictionary
