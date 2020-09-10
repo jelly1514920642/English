@@ -24,7 +24,7 @@
 
 # M
 
-+ [mustache](docs/mustache.md)
+## [mustache](docs/mustache.md)
 
 # N
 
