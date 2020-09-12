@@ -39,6 +39,10 @@ Old English drifan "to drive, force, hunt, pursue; rush against" (class I strong
 
 To *drive* is to operate or travel in a motor vehicle. You can *drive* a car, a bus, or a go-kart.
 
+### 1.<font color="green" face="黑体" size=15>v.</font><font color="red" face="黑体" size=15>n.</font>operate or control a vehicle
+
+---
+
 <font color="green" face="黑体" size=15>v.</font>**operate or control a vehicle**
 
 “**drive** a car or bus”
@@ -78,6 +82,8 @@ To *drive* is to operate or travel in a motor vehicle. You can *drive* a car, a 
   ​					[control](https://www.vocabulary.com/dictionary/control), [operate](https://www.vocabulary.com/dictionary/operate)
   
   ​					handle and cause to function
+  
+---
 
 <font color="green" face="黑体" size=15>v.</font>**travel or be transported in a vehicle**
 
@@ -94,6 +100,8 @@ To *drive* is to operate or travel in a motor vehicle. You can *drive* a car, a 
   ​					[go](https://www.vocabulary.com/dictionary/go), [locomote](https://www.vocabulary.com/dictionary/locomote), [move](https://www.vocabulary.com/dictionary/move), [travel](https://www.vocabulary.com/dictionary/travel)
   
   ​					change location; move, travel, or proceed, also metaphorically
+  
+---
 
 <font color="green" face="黑体" size=15>v.</font>**proceed along in a vehicle**
 
@@ -110,6 +118,8 @@ To *drive* is to operate or travel in a motor vehicle. You can *drive* a car, a 
 - Type of:
 
   ​					[cover](https://www.vocabulary.com/dictionary/cover), [cross](https://www.vocabulary.com/dictionary/cross), [cut across](https://www.vocabulary.com/dictionary/cut across), [cut through](https://www.vocabulary.com/dictionary/cut through), [get across](https://www.vocabulary.com/dictionary/get across), [get over](https://www.vocabulary.com/dictionary/get over), [pass over](https://www.vocabulary.com/dictionary/pass over), [track](https://www.vocabulary.com/dictionary/track), [traverse](https://www.vocabulary.com/dictionary/traverse) 					travel across or pass over
+  
+---
 
 <font color="green" face="黑体" size=15>v.</font>**move by being propelled by a force**
 
@@ -130,6 +140,8 @@ To *drive* is to operate or travel in a motor vehicle. You can *drive* a car, a 
   ​					[go](https://www.vocabulary.com/dictionary/go), [locomote](https://www.vocabulary.com/dictionary/locomote), [move](https://www.vocabulary.com/dictionary/move), [travel](https://www.vocabulary.com/dictionary/travel)
   
   ​					change location; move, travel, or proceed, also metaphorically
+  
+---
 
 <font color="green" face="黑体" size=15>v.</font>**cause someone or something to move by driving**
 
@@ -158,6 +170,8 @@ To *drive* is to operate or travel in a motor vehicle. You can *drive* a car, a 
   ​					[displace](https://www.vocabulary.com/dictionary/displace), [move](https://www.vocabulary.com/dictionary/move)
   
   ​					cause to move or shift into a new position or place, both in a concrete and in an abstract sense
+  
+---
 
 <font color="green" face="黑体" size=15>v.</font>**have certain properties when driven**
 
@@ -170,6 +184,7 @@ To *drive* is to operate or travel in a motor vehicle. You can *drive* a car, a 
   ​					[ride](https://www.vocabulary.com/dictionary/ride)
   
   ​					be carried or travel on or in a vehicle
+---
 
 <font color="green" face="黑体" size=15>v.</font>**work as a driver**
 
@@ -182,3 +197,72 @@ To *drive* is to operate or travel in a motor vehicle. You can *drive* a car, a 
   ​					[do work](https://www.vocabulary.com/dictionary/do work), [work](https://www.vocabulary.com/dictionary/work)
   
   ​					be employed
+
+---
+
+<font color="red" face="黑体" size=15>n.</font>**a journey in a vehicle (usually an automobile)**
+
+“he took the family for a  **drive** in his new car”
+
+- Synonyms:
+
+  ​					[ride](https://www.vocabulary.com/dictionary/ride)
+
+- Types:
+
+  ​					[lift](https://www.vocabulary.com/dictionary/lift)
+  
+  ​					a ride in a car
+
+  ​					[joyride](https://www.vocabulary.com/dictionary/joyride)
+  
+  ​					a ride in a car taken solely for pleasure
+
+  ​					[spin](https://www.vocabulary.com/dictionary/spin)
+  
+  ​					a short drive in a car
+
+- Type of:
+
+  ​					[journey](https://www.vocabulary.com/dictionary/journey), [journeying](https://www.vocabulary.com/dictionary/journeying)
+  
+  ​					the act of traveling from one place to another
+
+---
+
+<font color="red" face="黑体" size=15>n.</font>**a wide scenic road planted with trees**
+
+“the riverside  **drive** offers many exciting scenic views”
+
+- Synonyms:
+
+  ​					[parkway](https://www.vocabulary.com/dictionary/parkway)
+
+- Type of:
+
+  ​					[road](https://www.vocabulary.com/dictionary/road), [route](https://www.vocabulary.com/dictionary/route)
+  
+  ​					an open way (generally public) for travel or transportation
+
+---
+
+<font color="red" face="黑体" size=15>n.</font>**a road leading up to a private house**
+
+- Synonyms:
+
+  ​					[driveway](https://www.vocabulary.com/dictionary/driveway), [private road](https://www.vocabulary.com/dictionary/private road)
+
+- Type of:
+
+  ​					[road](https://www.vocabulary.com/dictionary/road), [route](https://www.vocabulary.com/dictionary/route)
+  
+  ​					an open way (generally public) for travel or transportation
+
+---
+
+### 2.<font color="green" face="黑体" size=15>v.</font><font color="red" face="黑体" size=15>n.</font>push, propel, or press with force
+
+
+
+### 3.<font color="green" face="黑体" size=15>v.</font><font color="red" face="黑体" size=15>n.</font>strive and make an effort to reach a goal
+
