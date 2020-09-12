@@ -1,9 +1,19 @@
 # 词源
 ## https://www.etymonline.com/search?q=-an
 
-also *moustache* (chiefly British), "the hair that grows upon the upper lip of men," 1580s, from French *moustache* (15c.), from Italian *mostaccio*, from Medieval Greek *moustakion*, diminutive of Doric *mystax* (genitive *mystakos*) "upper lip, mustache," related to *mastax* "jaws, mouth," literally "that with which one chews," perhaps from PIE root **mendh-* "to chew" (see [mandible](https://www.etymonline.com/word/mandible?ref=etymonline_crossreference)), but Beekes says this whole group of Greek words may be of Pre-Greek origin.
+also *moustache* (chiefly[^1] British), "the hair that grows upon the upper[^2] lip[^3] of men," 1580s[^4], from French[^5] *moustache* (15c.), from Italian[^6] *mostaccio*, from Medieval[^7] Greek[^8] *moustakion*, diminutive[^9] of Doric *mystax* (genitive *mystakos*) "upper lip, mustache," related to *mastax* "jaws, mouth," literally "that with which one chews," perhaps from PIE root **mendh-* "to chew" (see [mandible](https://www.etymonline.com/word/mandible?ref=etymonline_crossreference)), but Beekes says this whole group of Greek words may be of Pre-Greek origin.
 
 Borrowed earlier (1550s) as *mostacchi*, from the Italian word or its Spanish derivative *mostacho*. The plural form of this, *mustachios*, lingers in English (the *mustache* sometimes was considered as the hair on either side of the lip, hence the use of the plural form). Slang shortening *stache* attested from 1985. Old English had *cenep* "mustache," which is related to *cnafa* "boy" (see [knave](https://www.etymonline.com/word/knave?ref=etymonline_crossreference)). ***Mustache-cup***, one with a fixed cover over part of its top, allowing one to drink without dipping the mustache, is by 1868.
+
+[^1]:adv. mostly buy not completely 大部分地；主要地
+[^2]:adj. in the higher position than something else 「位置」较上的，较高的，上面的。
+[^3]: n. one of the two soft parts around your mouth where your skin is redder or darker 嘴唇
+[^4]:16世纪80年代
+[^5]: adj. relating to France, its people, or its language 法国的；法国人的；法语的
+[^6]: adj. relating to Italy, its people, or its language 意大利的；意大利人的；意大利语的
+[^7]: adj. connected with the Middle Ages(=the period between about 1100 and 1500 AD) 中世纪的，中古时期的
+[^8]: adj. relating to Greece, its people, or its language 希腊的；希腊人的；希腊语的
+[^9]: n.[C] a word formed by adding a diminutive suffix 指小词「由表示“小”的后缀构成的词」
 
 
 
