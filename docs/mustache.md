@@ -1,4 +1,4 @@
-# 起源
+# 词源
 ## https://www.etymonline.com/search?q=-an
 
 also *moustache* (chiefly British), "the hair that grows upon the upper lip of men," 1580s, from French *moustache* (15c.), from Italian *mostaccio*, from Medieval Greek *moustakion*, diminutive of Doric *mystax* (genitive *mystakos*) "upper lip, mustache," related to *mastax* "jaws, mouth," literally "that with which one chews," perhaps from PIE root **mendh-* "to chew" (see [mandible](https://www.etymonline.com/word/mandible?ref=etymonline_crossreference)), but Beekes says this whole group of Greek words may be of Pre-Greek origin.
@@ -7,7 +7,7 @@ Borrowed earlier (1550s) as *mostacchi*, from the Italian word or its Spanish de
 
 
 
-## http://www.etymon.cn/origins/
+## https://www.quword.com/etym/
 
 1580s, from French moustache (15c.), from Italian mostaccio, from  Medieval Greek moustakion, diminutive of Doric mystax (genitive  mystakos) "upper lip, mustache," related to mastax "jaws, mouth,"  literally "that with which one chews," from PIE root *mendh- "to chew"  (see mandible).Borrowed earlier (1550s) as mostacchi, from the Italian  word or its Spanish derivative mostacho. The plural form of this,  mustachios, lingers in English. Slang shortening stache attested from  1985. Dutch slang has a useful noun, de befborstel, to refer to the  mustache specifically as a tool for stimulating the clitoris; probably  from beffen "to stimulate the clitoris with the tongue."
 
@@ -21,7 +21,7 @@ If you're trying to grow a mustache, you might start by shaving all your facial 
 
 
 # 词义
-## https://www.vocabulary.com/
+## https://www.vocabulary.com/dictionary/mustache
 
 A *mustache* is hair that grows between a person's nose and mouth. Some *mustaches* are as thin as a pencil line, while others are bushy and full. Salvador Dali was known for his long, curled *mustache*.
 
@@ -52,3 +52,4 @@ A *mustache* is hair that grows between a person's nose and mouth. Some *mustach
   [facial hair](https://www.vocabulary.com/dictionary/facial hair)
   
   hair on the face (especially on the face of a man)
+
