@@ -47,20 +47,138 @@ To *drive* is to operate or travel in a motor vehicle. You can *drive* a car, a 
 
 - Synonyms:
 
-  [take](https://www.vocabulary.com/dictionary/take)
+  ​					[take](https://www.vocabulary.com/dictionary/take)
   
-  proceed along in a vehicle
+  ​					proceed along in a vehicle
 
-  [ride](https://www.vocabulary.com/dictionary/ride)
+  ​					[ride](https://www.vocabulary.com/dictionary/ride)
   
-  have certain properties when driven
+  ​					have certain properties when driven
 
 - Types:
 
-  [show 4 types...](javascript:void(0);)
+  ​					[coach](https://www.vocabulary.com/dictionary/coach)
+
+  ​					drive a coach
+
+  ​					[test drive](https://www.vocabulary.com/dictionary/test drive)
+
+  ​					test a vehicle by driving it
+
+  ​					[tool](https://www.vocabulary.com/dictionary/tool)
+
+  ​					drive
+
+  ​					[pull](https://www.vocabulary.com/dictionary/pull)
+
+  ​					move into a certain direction
 
 - Type of:
 
-  [control](https://www.vocabulary.com/dictionary/control), [operate](https://www.vocabulary.com/dictionary/operate)
+  ​					[control](https://www.vocabulary.com/dictionary/control), [operate](https://www.vocabulary.com/dictionary/operate)
   
-  handle and cause to function
+  ​					handle and cause to function
+
+<font color="green" face="黑体" size=15>v.</font>**travel or be transported in a vehicle**
+
+“We  **drove** to the university every morning”
+
+- Synonyms:
+
+  ​					[motor](https://www.vocabulary.com/dictionary/motor)
+
+  ​					[take](https://www.vocabulary.com/dictionary/take) proceed along in a vehicle
+
+- Type of:
+
+  ​					[go](https://www.vocabulary.com/dictionary/go), [locomote](https://www.vocabulary.com/dictionary/locomote), [move](https://www.vocabulary.com/dictionary/move), [travel](https://www.vocabulary.com/dictionary/travel)
+  
+  ​					change location; move, travel, or proceed, also metaphorically
+
+<font color="green" face="黑体" size=15>v.</font>**proceed along in a vehicle**
+
+“We  **drive** the turnpike to work”
+
+- Synonyms:
+
+  ​					[take](https://www.vocabulary.com/dictionary/take)
+  
+  ​					[motor](https://www.vocabulary.com/dictionary/motor)
+  
+  ​					travel or be transported in a vehicle
+  
+- Type of:
+
+  ​					[cover](https://www.vocabulary.com/dictionary/cover), [cross](https://www.vocabulary.com/dictionary/cross), [cut across](https://www.vocabulary.com/dictionary/cut across), [cut through](https://www.vocabulary.com/dictionary/cut through), [get across](https://www.vocabulary.com/dictionary/get across), [get over](https://www.vocabulary.com/dictionary/get over), [pass over](https://www.vocabulary.com/dictionary/pass over), [track](https://www.vocabulary.com/dictionary/track), [traverse](https://www.vocabulary.com/dictionary/traverse) 					travel across or pass over
+
+<font color="green" face="黑体" size=15>v.</font>**move by being propelled by a force**
+
+“The car  **drove** around the corner”
+
+- Types:
+
+  ​					[pull](https://www.vocabulary.com/dictionary/pull)
+  
+  ​					move into a certain direction
+
+  ​					[cut in](https://www.vocabulary.com/dictionary/cut in)
+  
+  ​					drive in front of another vehicle leaving too little space for that vehicle to maneuver comfortably
+
+- Type of:
+
+  ​					[go](https://www.vocabulary.com/dictionary/go), [locomote](https://www.vocabulary.com/dictionary/locomote), [move](https://www.vocabulary.com/dictionary/move), [travel](https://www.vocabulary.com/dictionary/travel)
+  
+  ​					change location; move, travel, or proceed, also metaphorically
+
+<font color="green" face="黑体" size=15>v.</font>**cause someone or something to move by driving**
+
+“She  **drove** me to school every day”
+
+“We  **drove** the car to the garage”
+
+- Synonyms:
+
+  ​					[take](https://www.vocabulary.com/dictionary/take)
+  
+  ​					proceed along in a vehicle
+
+- Types:
+
+  ​					[pull](https://www.vocabulary.com/dictionary/pull)
+  
+  ​					steer into a certain direction
+
+  ​					[chauffeur](https://www.vocabulary.com/dictionary/chauffeur), [drive around](https://www.vocabulary.com/dictionary/drive around)
+  
+  ​					drive someone in a vehicle
+
+- Type of:
+
+  ​					[displace](https://www.vocabulary.com/dictionary/displace), [move](https://www.vocabulary.com/dictionary/move)
+  
+  ​					cause to move or shift into a new position or place, both in a concrete and in an abstract sense
+
+<font color="green" face="黑体" size=15>v.</font>**have certain properties when driven**
+
+“My new truck  **drives** well”
+
+- Synonyms:
+
+  ​					[ride](https://www.vocabulary.com/dictionary/ride)
+
+  ​					[ride](https://www.vocabulary.com/dictionary/ride)
+  
+  ​					be carried or travel on or in a vehicle
+
+<font color="green" face="黑体" size=15>v.</font>**work as a driver**
+
+“He  **drives** a bread truck”
+
+“She  **drives** for the taxi company in Newark”
+
+- Type of:
+
+  ​					[do work](https://www.vocabulary.com/dictionary/do work), [work](https://www.vocabulary.com/dictionary/work)
+  
+  ​					be employed

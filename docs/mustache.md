@@ -31,25 +31,25 @@ A *mustache* is hair that grows between a person's nose and mouth. Some *mustach
 
 - Synonyms:
 
-  [moustache](https://www.vocabulary.com/dictionary/moustache)
+  ​					[moustache](https://www.vocabulary.com/dictionary/moustache)
 
 - Types:
 
-  [soup-strainer](https://www.vocabulary.com/dictionary/soup-strainer), [toothbrush](https://www.vocabulary.com/dictionary/toothbrush) 
+  ​					[soup-strainer](https://www.vocabulary.com/dictionary/soup-strainer), [toothbrush](https://www.vocabulary.com/dictionary/toothbrush) 
   
-  slang for a mustache
+  ​					slang for a mustache
 
-  [handle-bars](https://www.vocabulary.com/dictionary/handle-bars), [moustachio](https://www.vocabulary.com/dictionary/moustachio), [mustachio](https://www.vocabulary.com/dictionary/mustachio)
+  ​					[handle-bars](https://www.vocabulary.com/dictionary/handle-bars), [moustachio](https://www.vocabulary.com/dictionary/moustachio), [mustachio](https://www.vocabulary.com/dictionary/mustachio)
   
-  a large bushy moustache (with hair growing sometimes down the sides of the mouth)
+  ​					a large bushy moustache (with hair growing sometimes down the sides of the mouth)
 
-  [walrus moustache](https://www.vocabulary.com/dictionary/walrus moustache), [walrus mustache](https://www.vocabulary.com/dictionary/walrus mustache)
+  ​					[walrus moustache](https://www.vocabulary.com/dictionary/walrus moustache), [walrus mustache](https://www.vocabulary.com/dictionary/walrus mustache)
   
-  a bushy droopy mustache
+  ​					a bushy droopy mustache
 
 - Type of:
 
-  [facial hair](https://www.vocabulary.com/dictionary/facial hair)
+  ​					[facial hair](https://www.vocabulary.com/dictionary/facial hair)
   
-  hair on the face (especially on the face of a man)
+  ​					hair on the face (especially on the face of a man)
 
