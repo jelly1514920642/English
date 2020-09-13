@@ -1,7 +1,7 @@
 # 词源
 ## https://www.etymonline.com/search?q=-an
 
-also *moustache* (chiefly[^1] British), "the hair that grows upon the upper[^2] lip[^3] of men," 1580s[^4], from French[^5] *moustache* (15c.), from Italian[^6] *mostaccio*, from Medieval[^7] Greek[^8] *moustakion*, diminutive[^9] of Doric[^10] *mystax* (genitive[^11] *mystakos*) "upper lip, mustache," related to *mastax* "jaws, mouth," literally "that with which one chews," perhaps from PIE root **mendh-* "to chew" (see [mandible](https://www.etymonline.com/word/mandible?ref=etymonline_crossreference)), but Beekes says this whole group of Greek words may be of Pre-Greek origin.
+also *moustache* (chiefly[^1] British), "the hair that grows upon the upper[^2] lip[^3] of men," 1580s[^4], from French[^5] *moustache* (15c.), from Italian[^6] *mostaccio*, from Medieval[^7] Greek[^8] *moustakion*, diminutive[^9] of Doric[^10] *mystax* (genitive[^11] *mystakos*) "upper[^2] lip[^3], mustache," related to *mastax* "jaws[^12], mouth," literally[^13] "that with which one chews[^14]," perhaps from PIE root **mendh-* "to chew" (see [mandible](https://www.etymonline.com/word/mandible?ref=etymonline_crossreference)), but Beekes says this whole group of Greek words may be of Pre-Greek origin.
 
 Borrowed earlier (1550s) as *mostacchi*, from the Italian word or its Spanish derivative *mostacho*. The plural form of this, *mustachios*, lingers in English (the *mustache* sometimes was considered as the hair on either side of the lip, hence the use of the plural form). Slang shortening *stache* attested from 1985. Old English had *cenep* "mustache," which is related to *cnafa* "boy" (see [knave](https://www.etymonline.com/word/knave?ref=etymonline_crossreference)). ***Mustache-cup***, one with a fixed cover over part of its top, allowing one to drink without dipping the mustache, is by 1868.
 
@@ -17,10 +17,9 @@ Borrowed earlier (1550s) as *mostacchi*, from the Italian word or its Spanish de
 
 [^10]: adj. in the oldest and simplest of the Greek building styles 陶理克式的「古希腊建筑中最古老的、最简朴的样式」
 [^11]: n.[C] *technical* a form of a noun in some languages which shows a relationship of possession or origin between one thing and another [术语] 「某些语言中名词的」属格，所有格
-
-
-
-
+[^12]: n.[C] one of the two bones that your teeth are in 颌（骨）
+[^13]: adv. according to the most basic or original meaning of a word or expression 按照原意，根据字面意思
+[^14]: v. [I,T] to bite food several times before swallowing it 咀嚼；嚼碎
 
 
 
